@@ -1,16 +1,20 @@
-# achievements-playground- Contribution entry 1
-- Contribution entry 2
-- Contribution entry 3
-- Contribution entry 4
-- Contribution entry 5
-- Contribution entry 6
-- Contribution entry 7
-- Contribution entry 8
-- Contribution entry 9
-- Contribution entry 10
-- Contribution entry 11
-- Contribution entry 12
-- Contribution entry 13
-- Contribution entry 14
-- Contribution entry 15
-- Contribution entry 16
+# GitHub Actions Sandbox
+
+A sandbox environment for testing GitHub Actions workflows, CI/CD pipelines, and git branch merge strategies.
+
+## Overview
+
+This repository is used as a personal testing ground for automation workflows, including:
+- Continuous Integration (CI) status check simulations.
+- Pull request linting and validation pipelines.
+- Automated merge rules and branch protection configurations.
+- GitHub CLI integration scripts.
+
+## Contents
+
+- `.github/workflows/`: Target directory for experimental Actions workflows.
+- `docs/`: Sandbox documentation and pipeline diagrams.
+
+## Purpose
+
+To provide a safe, isolated repository to test actions, webhooks, and git state logic before deploying them to production environments.
